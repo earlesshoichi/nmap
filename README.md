@@ -4,6 +4,7 @@ Have you found the old version frustrating because you are using a large usernam
 To start using this script, copy this script to your NMAP script directory. Then run the following two commands if you are using KALI:
 
 └─$ sudo cp krb5-enum-users-hoichi.nse /usr/share/nmap/scripts
+
 └─$ sudo nmap --script-updatedb
 
 As an example of using this script (using TryHackMe's Attacktive box):
